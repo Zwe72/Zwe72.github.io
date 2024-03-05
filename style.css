@@ -1,0 +1,18 @@
+body {
+    background-color:brown ;
+    font-family: Garamond, serif;
+}
+h1 {
+    color: burlywood;
+    font-size: 25px;
+    font-weight: bolder;
+}
+h2 {
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+p {
+    color: black;
+    font-size: 13px;
+}
