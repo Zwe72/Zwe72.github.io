@@ -1,18 +1,40 @@
 body {
-    background-color:brown ;
-    font-family: Garamond, serif;
+    background-color:rgb(	144,70,23) ;
 }
 h1 {
     color: burlywood;
+    font-family: "Ennobled Pet", "Aptos";
     font-size: 25px;
     font-weight: bolder;
 }
 h2 {
     color: black;
+    font-family: "Aptos";
     font-size: 15px;
     font-weight: bold;
 }
 p {
     color: black;
+    font-family: "Juice ITC";
     font-size: 13px;
+}
+.topnav {
+    overflow:hidden ;
+    background-color: black;
+}
+.topnav a {
+    float: left;
+    color:whitesmoke ;
+    text-align: left;
+    padding: 15px 17px;
+    text-decoration: none;
+    font-size: 18px;
+}
+.topnav a:hover {
+    background-color: gainsboro;
+    color: black;
+}
+.topnav a.active {
+    background-color: burlywood;
+    color: white;
 }
