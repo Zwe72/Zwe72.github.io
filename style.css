@@ -1,11 +1,13 @@
 body {
-    background-color:rgb(	144,70,23) ;
+    background-color: #FFA64F;
 }
 h1 {
     color: burlywood;
+    background-color: rgb(	144,70,23);
     font-family: "Ennobled Pet", "Aptos";
-    font-size: 25px;
+    font-size: 40px;
     font-weight: bolder;
+    
 }
 h2 {
     color: black;
@@ -16,7 +18,7 @@ h2 {
 p {
     color: black;
     font-family: "Juice ITC";
-    font-size: 13px;
+    font-size: 150%;
 }
 .topnav {
     overflow:hidden ;
@@ -37,4 +39,8 @@ p {
 .topnav a.active {
     background-color: burlywood;
     color: white;
+}
+
+table, th, td {
+    border: 2px solid black;
 }
