@@ -2,10 +2,11 @@ body {
     background-color: #FFA64F;
 }
 h1 {
-    color: burlywood;
-    background-color: rgb(	144,70,23);
+    color: black;
+    background-color: rgb(205, 90, 18);
     font-family: "Ennobled Pet", Aptos;
-    font-size: 40px;
+    font-size: 30px;
+    font-size: 10vw;
     font-weight: bolder;
     padding: 20px;
     
@@ -14,14 +15,17 @@ h2 {
     color: black;
     font-family: Aptos, Serif;
     font-size: 15px;
+    font-size: 5vw;
     font-weight: bold;
 }
 p {
     color: black;
     font-family: "Juice ITC";
     font-size: 150%;
+    font-size: 5vw;
     text-align: center;
 }
+
 .topnav {
     overflow:hidden ;
     background-color: black;
@@ -33,7 +37,6 @@ p {
     padding: 15px 17px;
     text-decoration: none;
     font-size: 18px;
-    text-align: center;
 }
 .topnav a:hover {
     background-color: gainsboro;
@@ -49,8 +52,8 @@ table, th, td {
 }
 
 #container {
-    width: 350px;
-    margin: 0px, auto;
+    width: 325px;
+    margin: auto;
     padding: 30px;
     background: whitesmoke;
 }
@@ -62,5 +65,6 @@ figure {
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
+    height: auto;
 }
