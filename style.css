@@ -1,6 +1,7 @@
 body {
     background-color: #FFA64F;
 }
+/*heading 1 asetus*/
 h1 {
     color: black;
     background-color: rgb(205, 90, 18);
@@ -11,13 +12,16 @@ h1 {
     padding: 20px;
     
 }
+/*heading 2 asetus*/
 h2 {
     color: black;
     font-family: "Aptos", Serif;
     font-size: 15px;
-    font-size: 5vw;
-    font-weight: bold;
+    font-size: 4vw;
+    text-align: center;
+    
 }
+/*perustekstin asetus*/
 p {
     color: black;
     font-family: "Juice ITC";
@@ -52,9 +56,9 @@ table, th, td {
 }
 /*valkoinen tausta tekstien takana*/
 #container {
-    width: 325px;
+    max-width: 325px;
     margin: auto;
-    padding: 30px;
+    padding: 16px;
     background: whitesmoke;
 }
 /*kuvissa oleva valkoinen reuna*/
