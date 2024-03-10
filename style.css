@@ -78,3 +78,8 @@ img {
     max-width: 100%;
     height: auto;
 }
+html {
+@media (min-width: 1240px) {
+   font-size: calc(100vw * 18 / 1240); 
+}
+}
