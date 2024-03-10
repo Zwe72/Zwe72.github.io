@@ -4,7 +4,7 @@ body {
 h1 {
     color: burlywood;
     background-color: rgb(	144,70,23);
-    font-family: "Ennobled Pet", "Aptos";
+    font-family: "Ennobled Pet", Aptos;
     font-size: 40px;
     font-weight: bolder;
     padding: 20px;
@@ -12,7 +12,7 @@ h1 {
 }
 h2 {
     color: black;
-    font-family: "Aptos", "serif";
+    font-family: Aptos, Serif;
     font-size: 15px;
     font-weight: bold;
 }
@@ -20,6 +20,7 @@ p {
     color: black;
     font-family: "Juice ITC";
     font-size: 150%;
+    text-align: center;
 }
 .topnav {
     overflow:hidden ;
@@ -32,6 +33,7 @@ p {
     padding: 15px 17px;
     text-decoration: none;
     font-size: 18px;
+    text-align: center;
 }
 .topnav a:hover {
     background-color: gainsboro;
