@@ -38,7 +38,7 @@ p {
     color: black;
 }
 .topnav a.active {
-    background-color: burlywood;
+    background-color: darkgoldenrod;
     color: white;
 }
 
