@@ -4,7 +4,7 @@ body {
 h1 {
     color: black;
     background-color: rgb(205, 90, 18);
-    font-family: "Ennobled Pet", Aptos;
+    font-family: "Ennobled Pet", "Aptos";
     font-size: 30px;
     font-size: 10vw;
     font-weight: bolder;
@@ -13,7 +13,7 @@ h1 {
 }
 h2 {
     color: black;
-    font-family: Aptos, Serif;
+    font-family: "Aptos", Serif;
     font-size: 15px;
     font-size: 5vw;
     font-weight: bold;
@@ -21,11 +21,11 @@ h2 {
 p {
     color: black;
     font-family: "Juice ITC";
-    font-size: 150%;
+    font-size: 15px;
     font-size: 5vw;
     text-align: center;
 }
-
+/*navigointi kaiken sivuun*/
 .topnav {
     overflow:hidden ;
     background-color: black;
@@ -50,20 +50,20 @@ p {
 table, th, td {
     border: 2px solid black;
 }
-
+/*valkoinen tausta tekstien takana*/
 #container {
     width: 325px;
     margin: auto;
     padding: 30px;
     background: whitesmoke;
 }
-
+/*kuvissa oleva valkoinen reuna*/
 figure {
     border: 2px white solid;
     padding: 7px;
     margin: auto;
 }
-
+/*kuvien koon asetus*/
 img {
     max-width: 100%;
     height: auto;
