@@ -78,7 +78,13 @@ img {
 }
 
 @media only screen and (min-width: 1240px) {
-    body { 
+    h1 { 
      font-size: 1rem;
     }
+    h2 { 
+        font-size: 1rem;
+       }
+    p { 
+        font-size: 1rem;
+       }
  }
