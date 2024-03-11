@@ -7,8 +7,7 @@ h1 {
     color: black;
     background-color: rgb(205, 90, 18);
     font-family: "Ennobled Pet", "Aptos";
-    font-size: 30px;
-    font-size: 10vw;
+    font-size: 3rem;
     font-weight: bolder;
     padding: 20px;
     
@@ -17,8 +16,7 @@ h1 {
 h2 {
     color: black;
     font-family: "Aptos", Serif;
-    font-size: 15px;
-    font-size: 7vw;
+    font-size: 1.4rem;
     text-align: center;
     
 }
@@ -26,8 +24,7 @@ h2 {
 p {
     color: black;
     font-family: "Juice ITC";
-    font-size: 15px;
-    font-size: 7vw;
+    font-size: 2rem;
     text-align: center;
 }
 /*navigointi kaiken sivuun*/
@@ -54,11 +51,11 @@ p {
 /*taulukon asennus*/
 table, th, td {
     border: 2px solid black;
-    font-size: 6.5vw;
+    font-size: 1.25rem;
 }
 ul li {
     margin: 3px;
-    font-size: 5vw;
+    font-size: 1.1rem;
 
 }
 /*valkoinen tausta tekstien takana*/
