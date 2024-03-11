@@ -77,14 +77,3 @@ img {
     height: auto;
 }
 
-@media only screen and (min-width: 1240px) {
-    h1 { 
-     font-size: 1rem;
-    }
-    h2 { 
-        font-size: 1rem;
-       }
-    p { 
-        font-size: 1rem;
-       }
- }
