@@ -7,9 +7,9 @@ h1 {
     color: black;
     background-color: rgb(205, 90, 18);
     font-family: "Ennobled Pet", "Aptos";
-    font-size: 2.5rem;
+    font-size: 3rem;
     font-weight: bolder;
-    padding: 20px;
+    padding: 20px; 
 }
 /*heading 2 asetus*/
 h2 {
@@ -72,7 +72,7 @@ figure {
 }
 /*kuvien koon asetus*/
 img {
-    width: auto;
+    width: 400px;
     max-width: 100%;
     height: auto;
 }
