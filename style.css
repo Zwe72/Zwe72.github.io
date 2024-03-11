@@ -79,12 +79,16 @@ img {
 
 @media only screen and (min-width: 1240px) {
     h1 { 
-        font-size: 4.5rem;
+        font-size: 4.25rem;
     }
     h2 { 
         font-size: 3rem;
-       }
+    }
     p { 
         font-size: 3.5rem;
-       }
+    }
+    #container { 
+        max-width: 750px;
+    }
  }
+ 
